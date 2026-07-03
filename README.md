@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on networking
+🌱 I’m currently learning linux
+💬 Ask me about interest cyber security
 <!--
 **siddache/siddache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
